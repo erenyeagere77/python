@@ -1,5 +1,5 @@
 # Assigning numbers to variables
-a = 5000
+a = 500
 b = 5
 
 # Adding the variables
